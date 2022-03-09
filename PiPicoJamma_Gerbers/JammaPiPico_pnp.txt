@@ -1,0 +1,89 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=JammaPiPico
+*Date=19:45:51
+*CreatedBy=Fritzing 0.9.6b..0.9.6
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;510;THT;55.7378;-15.9973;-90;Bottom;Red6
+2;2.2k;THT;46.138;-15.9973;-90;Bottom;Green4
+3;;;10.2682;-52.418;-90;Bottom;TXT4
+4;;THT;77.6803;-58.2176;-90;Bottom;SW1
+5;2.2k;THT;26.9378;-15.9973;-90;Bottom;Red4
+6;1k;THT;38.9379;-15.9973;-90;Bottom;Blue5
+7;;;20.7335;-40.8387;0;Bottom;TXT7
+8;180;THT;22.1378;-15.9973;-90;Bottom;Green7
+9;;;32.5503;-60.2176;0;Bottom;Via12
+10;8.2k;THT;53.338;-15.9973;-90;Bottom;Red2
+11;;;63.6503;-60.2176;0;Bottom;Via4
+12;;;107.15;-46.1176;0;Bottom;Hole4
+13;;;5.07529;-52.3616;-90;Bottom;TXT4
+14;1k;THT;50.938;-15.9973;-90;Bottom;Red5
+15;;THT;92.6804;-58.2176;-90;Bottom;+12v GND1
+16;;;107.25;-58.3176;0;Bottom;Hole3
+17;;;70.1502;-59.5176;0;Bottom;Via21
+18;;THT;6.71918;-37.213;-90;Bottom;Volume
+19;8.2k;THT;17.3378;-15.9973;-90;Bottom;Blue2
+20;;;67.7708;-60.2215;0;Bottom;Via3
+21;;;24.5504;-60.4176;0;Bottom;Via14
+22;;;88.1565;-20.0996;90;Bottom;Raspberry Pi Pico
+23;;;58.8411;21.4115;0;Bottom;Raspberry Pi 3/4
+24;;THT;71.5103;-45.9876;180;Bottom;R- R+1
+25;;usb-b-pth;107.181;-52.1676;180;Bottom;X1
+26;;;52.7503;-60.2176;0;Bottom;Via7
+27;;;57.3655;-40.6571;0;Bottom;IMG3
+28;2.2k;THT;43.738;-15.9973;-90;Bottom;Blue4
+29;4.3k;THT;24.5378;-15.9973;-90;Bottom;Red3
+30;;;29.7333;-44.7302;0;Bottom;IMG4
+31;;;48.5503;-60.2176;0;Bottom;Via8
+32;;;56.5502;-60.2176;0;Bottom;Via6
+33;;;38.2503;-23.2177;0;Bottom;Via22
+34;;;15.8503;-23.2177;0;Bottom;Via17
+35;;THT;85.2503;-35.8177;-90;Bottom;RIn G LIn1
+36;;;85.4961;-47.3998;-90;Bottom;TXT3
+37;;;44.5504;-60.2176;0;Bottom;Via9
+38;;;17.7753;-52.3616;-90;Bottom;TXT4
+39;8.2k;THT;29.3378;-15.9973;-90;Bottom;Green2
+40;;;28.5503;-60.2176;0;Bottom;Via13
+41;;;42.3505;-35.2175;0;Bottom;Via19
+42;;;58.5503;-57.9176;0;Bottom;Via1
+43;180;THT;31.7379;-15.9973;-90;Bottom;Blue7
+44;;;7.45402;-16.8149;0;Bottom;IMG2
+45;;THT;17.0502;-42.3876;0;Bottom;J3
+46;;;20.4544;-52.3275;-90;Bottom;TXT4
+47;;;44.3503;-35.1176;0;Bottom;Via18
+48;;;7.5024;-52.418;-90;Bottom;TXT4
+49;;;17.5113;-45.8058;0;Bottom;TXT8
+50;;;20.5502;-60.4176;0;Bottom;Via15
+51;;;20.5924;-43.4069;0;Bottom;TXT6
+52;;;40.5504;-60.2176;0;Bottom;Via10
+53;180;THT;58.1378;-15.9973;-90;Bottom;Red7
+54;;4Ucon 08780 [THT];108.85;-38.318;180;Bottom;TRS1
+55;4.3k;THT;34.1379;-15.9973;-90;Bottom;Green3
+56;;;38.1504;-35.2175;0;Bottom;Via20
+57;;;29.7068;-36.8513;0;Bottom;TXT5
+58;;;19.7502;-3.01758;0;Bottom;Hole2
+59;510;THT;19.7378;-15.9973;-90;Bottom;Green6
+60;;;85.1986;-47.0058;-90;Bottom;IMG1
+61;;THT;56.5504;-72.6426;180;Bottom;J1
+62;;THT;13.7603;-57.6176;-90;Bottom;J2
+63;;;15.1788;-52.3051;-90;Bottom;TXT4
+64;510;THT;36.5379;-15.9973;-90;Bottom;Blue6
+65;4.3k;THT;41.3379;-15.9973;-90;Bottom;Blue3
+66;;;36.5502;-60.2176;0;Bottom;Via11
+67;;;29.3504;-7.0176;0;Bottom;Via2
+68;;;73.4502;-57.9176;0;Bottom;Via16
+69;;;41.792;-41.9567;-90;Bottom;IMG5
+70;;dipswitch-08;26.0604;-30.6276;0;Bottom;SW2
+71;;;40.2504;-35.2175;0;Bottom;Via5
+72;;THT;98.6104;-45.9876;180;Bottom;L- L+1
+73;1k;THT;48.538;-15.9973;-90;Bottom;Green5
+74;;;77.8504;-3.01758;0;Bottom;Hole1
