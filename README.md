@@ -9,6 +9,8 @@ RGB output via VGA666 interface, with resistor values tunned for better contrast
   
 Built-in slot for PAM8610 module with Volume pot. Audio can be mono via Jamma pins or stereo via external speaker connectors  
   
+Link: [PiPico Jamma on PCBWay](https://www.pcbway.com/project/shareproject/PiPico_Jamma_d2a98783.html)
+  
 PCB Version 1.1:  
 ![PiPicoJamma 1.1 Front](https://github.com/ninomegadriver/PiPicoJamma/raw/main/PiPicoJamma_pcb-front.png)
 ![PiPicoJamma 1.1 Back](https://github.com/ninomegadriver/PiPicoJamma/raw/main/PiPicoJamma_pcb-back.png)
